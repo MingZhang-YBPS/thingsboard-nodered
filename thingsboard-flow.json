@@ -1,0 +1,20 @@
+[
+    {
+        "id": "14bcc2b0a1389b0d",
+        "type": "debug",
+        "z": "e64188a7dbb08d5e",
+        "g": "2096a4da1dc40a6e",
+        "name": "打印rpc返回",
+        "active": true,
+        "tosidebar": true,
+        "console": false,
+        "tostatus": false,
+        "complete": "payload",
+        "targetType": "msg",
+        "statusVal": "",
+        "statusType": "auto",
+        "x": 770,
+        "y": 1460,
+        "wires": []
+    }
+]
